@@ -1,0 +1,49 @@
+[
+  {
+    "name": "SJ Dental",
+    "website": "https://sjdental.pk/",
+    "score": 40,
+    "gaps": [
+      "No chatbot / live chat",
+      "No WhatsApp contact"
+    ],
+    "outreach": {
+      "subject": "Free demo to add live chat or WhatsApp to SJ Dental site",
+      "message": "Hi SJ Dental team, I noticed your site is mobile‑friendly and secure, but it lacks a live chat or WhatsApp option for patients to reach you instantly. I can set up a simple chatbot demo or show how WhatsApp integration could improve appointment bookings, free of charge. Let me know if you’d like a quick walkthrough. Best regards, Aleeha"
+    }
+  },
+  {
+    "name": "Dental Clinic Islamabad",
+    "website": "https://dentalclinicislamabad.com/",
+    "score": 25,
+    "gaps": [
+      "No chatbot / live chat"
+    ],
+    "outreach": {
+      "subject": "Improving Dental Clinic Islamabad website",
+      "message": "Hi, I reviewed dentalclinicislamabad.com and noticed it lacks a chatbot/live chat, which could help capture patient inquiries instantly. The overall site score is 25, indicating room for improvement. I’d be happy to set up a quick demo of a simple chatbot at no cost. Let me know if you’d like to see it. Best, Aleeha"
+    }
+  },
+  {
+    "name": "Hassaan Dental Clinic Islamabad",
+    "website": "https://hassaandental.pk/",
+    "score": 25,
+    "gaps": [
+      "No chatbot / live chat"
+    ]
+  },
+  {
+    "name": "The Urban Dentist",
+    "website": "https://theurbandentist.pk/",
+    "score": 25,
+    "gaps": [
+      "No chatbot / live chat"
+    ]
+  },
+  {
+    "name": "The Dental Clinic",
+    "website": "https://www.thedentalclinicpk.com/",
+    "score": 0,
+    "gaps": []
+  }
+]
