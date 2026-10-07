@@ -1,3 +1,4 @@
 httpx
 ddgs
 python-dotenv
+streamlit
